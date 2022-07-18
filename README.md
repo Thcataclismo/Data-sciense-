@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thcataclismo
+- 👋 Hi, I’m Thiago S Ribeiro
 - 👀 I’m interested in data science/ data analyst
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on researches 
